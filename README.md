@@ -10,14 +10,14 @@
 - **참여 인원**: 3명
 
 ## 📁 폴더 구성
-
+```
 Accident-insight/
 ├── docs/ # 조사 자료 및 참고 문서
 ├── preprocessing/ # 데이터 전처리 코드
 ├── analysis/ # 데이터 분석 코드
 ├── visualization/ # 시각화 코드 및 이미지
 ├── report/ # 최종 보고서 및 발표 자료
-
+```
 
 ## 🛠 사용 도구 및 라이브러리
 
